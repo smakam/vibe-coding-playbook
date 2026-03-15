@@ -31,7 +31,7 @@ Each skill is a directory you copy into `~/.claude/skills/`. Claude Code picks t
 
 ```bash
 # Clone the repo
-git clone https://github.com/sreemakam/claude-vibe-coding-skills.git
+git clone https://github.com/smakam/claude-vibe-coding-skills.git
 
 # Copy skills to your Claude config
 cp -r claude-vibe-coding-skills/skills/vibe-coding-new-project ~/.claude/skills/
